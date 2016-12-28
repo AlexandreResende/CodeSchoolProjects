@@ -1,0 +1,79 @@
+
+body{
+	background-color: rgb(100,100,100)
+}
+
+.header{
+	background-color: rgb(100,200,200);
+	text-align: center;
+	margin: auto;
+	width: 90%;
+}
+
+.tagline{
+	background-color: rgb(100,200,200);
+	border:  3px black solid;
+	margin: auto;
+	width: 90%;
+	height: 10em;
+	line-height: 30px;
+}
+
+.tagline h3{
+	text-align: center;
+	font-size: 30px;
+}
+
+.tagline p{
+	text-align: center;
+	margin: 10px 10px 10px 10px;
+	font-size: 20px;
+}
+
+.skills{
+	background-color: rgb(100,200,200);
+	width: 90%;
+	height: 15em;
+	margin: auto;
+}
+
+.skills h3{
+	text-align: center;
+	font-size: 30px;
+}
+
+.skills p{
+	text-align: center;
+	margin: 10px 10px 10px 10px;
+	font-size: 20px;
+}
+
+.skills ul{
+	font-size: 20px;
+}
+
+.skills li{
+	font-size: 20px;
+	margin-left: 20px;
+}
+
+.contact{
+	background-color: rgb(100,200,200);
+	width: 90%;
+	height: 7em;
+	margin: auto;
+	text-align: center;
+}
+
+.contact p a{
+	text-decoration: none;
+	color: grey;
+	font-weight: bold;
+}
+
+.contact p a:hover{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+}
